@@ -1,5 +1,5 @@
 package example;
 
 public class C {
-    M m;
+    // Type "My" below to verify autocomplete of the MyMsg proto
 }

@@ -4,6 +4,6 @@ package example;
 
 option java_multiple_files = true;
 
-message M {
+message MyMsg {
   string s = 1;
 }
